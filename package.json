@@ -3,7 +3,7 @@
   "description": "Unit types & plugins for Mongoose",
   "version": "0.0.1",
   "author": "Stuart Hudson <goulash1971@yahoo.com>",
-  "keywords": ["mongodb", "mongoose", "mongo", "plugins", "types", "units],
+  "keywords": ["mongodb", "mongoose", "mongo", "plugins", "types", "units"],
   "homepage": "https://github.com/goulash1971/mongoose-units",
   "contributors": [
     "Stuart Hudson <goulash1971@yahoo.com> (http://goulash1971.com/)"
